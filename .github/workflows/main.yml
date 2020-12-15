@@ -10,6 +10,9 @@ jobs:
       uses: llxlr/hello-world-docker-action@master
       with:
         who-to-greet: 'Mona the Octocat'
+        a: 'this is a'
+        b: 'this is b'
+        c: 'this is c'
     # Use the output from the `hello` step
     - name: Get the output time
       run: echo "The time was ${{ steps.hello.outputs.time }}"
