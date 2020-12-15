@@ -1,5 +1,9 @@
 name: 'Hello World'
 description: 'Greet someone and record the time'
+author: 'jamesyang <i@xhlr.top>'
+branding:
+  icon: ''
+  color: ''
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
