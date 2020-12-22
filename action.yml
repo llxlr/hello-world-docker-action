@@ -1,3 +1,4 @@
+# https://docs.github.com/cn/free-pro-team@latest/actions/creating-actions/metadata-syntax-for-github-actions
 name: 'Hello World'
 description: 'Greet someone and record the time'
 author: 'jamesyang <i@xhlr.top>'
